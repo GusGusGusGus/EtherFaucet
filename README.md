@@ -1,2 +1,2 @@
-# EthereumTuts
-Meu repositório privado para os exercicios do livro de Ethereum 
+# EtherFaucet
+Implementation of Ether faucet using Solidity smart-contracts and Truffle framework
